@@ -1,0 +1,9 @@
+@import "keep-react/css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media (max-width: 1023px) {
+  .NavDNone {
+    display: none;
+  }
+}
